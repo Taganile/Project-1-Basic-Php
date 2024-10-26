@@ -1,1 +1,1 @@
-http://localhost/Main-Page.php
+Main-Page.php
